@@ -3387,8 +3387,8 @@ img.u-pull-left {
 .s-intro__content-btn {
     --btn-height     : calc(var(--vspace-btn) - 1rem);
     font-size        : calc(var(--text-size) * 0.8889);
-    background-color : white;
-    border-color     : white;
+    background-color : #008000;
+    border-color     : #008000;
     margin-right     : var(--vspace-1);
     margin-bottom    : 0;
 }
@@ -3410,7 +3410,7 @@ img.u-pull-left {
 }
 
 .s-intro__content-video-btn svg path {
-    fill : var(--color-text-dark);
+    fill : var(--color-text-success);
 }
 
 .s-intro__content-video-btn:focus,
